@@ -2,7 +2,7 @@
 
 - Captures the FTK Ansible role layout now hosted at `ftk/` and explains how to place artifacts, run the role, and customize variables for RHEL 7/8/9 hosts, aligning with the repo state mirrored on GitHub.[^1]
 
-```markdown
+
 # FTK Ansible Role
 
 This repository packages an Ansible role that prepares storage, uploads signed packages, and installs the FTK agent on Red Hat Enterprise Linux 7, 8, and 9 systems.[^1]
