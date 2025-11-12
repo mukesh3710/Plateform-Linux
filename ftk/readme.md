@@ -15,7 +15,7 @@ This repository packages an Ansible role that prepares storage, uploads signed p
 
 ## Repository Layout
 
-```
+```markdown
 ftk/
 ├── defaults/
 │   └── main.yml
