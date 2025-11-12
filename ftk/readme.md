@@ -72,5 +72,3 @@ ansible-playbook -i inventory.ini deploy-ftk.yml
 
 [^1]: [Plateform-Linux – ftk role](https://github.com/mukesh3710/Plateform-Linux/tree/main/ftk)
 ```
-
-Let me know if you’d like a Molecule scenario or sample inventory to ship alongside the README.
